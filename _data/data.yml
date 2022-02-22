@@ -12,14 +12,14 @@ sidebar:
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: eliasrodrgiuez2002@hotmail.com
+  email: eliasrodriguez2002@hotmail.com
   phone:
   website: eliasur.github.io # No agregar http://
-  linkedin: brightcoders
+  linkedin: elias-ur
   github: EliasUR
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: # '@BrightCoders'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -27,23 +27,23 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: EF-SET 74 (C2 Proficient) # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: EF-SET = 74 - C2 Proficient # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
-
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Communication
+    - item: Adaptability
       link: # dejar en blanco
 
     - item: Team Work
       link: # dejar en blanco
 
     - item: Time Management
+      link: # dejar en blanco
+
+    - item: Problem-solving
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
