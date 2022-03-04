@@ -27,7 +27,7 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: EF-SET = 74 - C2 Proficient # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: EF-SET:74 - C2  # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -54,20 +54,15 @@ career-profile:
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Informatics Engineering
+    university: Universidad Nacional de La Matanza  (Buenos Aires, Argentina)
+    time: 2021 - Present
     details: |
+      6 approved subjects
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
+  - degree: English Level 5 Course
+    university: Ministerio de la Ciudad de Buenos Aires
+    time: May 2021 - November 2021
 
   - degree: Internship (Master Thesis)
     university: Tobii
@@ -79,38 +74,30 @@ educationcomplete:
         - Hand Gesture
 
   - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
+    university: Escuela  (Torino, Italy)
     time: 2009 - 2012
     details: |
       Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Bootcamp in Back-End development 
+    time: May 2020 - June 2020
+    company: Accenture, Buenos Aires
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Training in back-end development and object oriented programming with .NET
+        - C#
+        - ASP.NET MVC
+        - Sql Server
+        - Entity Framework
 
-  - role: Senior Software Engineer
+  - role: Start Program 
     time: 2014 - 2015
-    company: Google, London
+    company: Alliance Accenture, Fundación Forge y Mindhub
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Training in soft skills and Front-End development
+        - HTML, CSS and JavaScript
+        - ReactJS, Bootstrap and FireBase
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
