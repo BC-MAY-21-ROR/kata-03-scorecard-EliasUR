@@ -50,7 +50,8 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I am Elias Rodriguez, I'm 19 years old and I'm from Argentina. At the moment, I am in my second year studing Informatics Engineering. 
+    I like programming and I would like to get a job as a web developer that allows me to learn from my co-workers and show my previously acquired knowledge.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -63,21 +64,6 @@ educationcomplete:
   - degree: English Level 5 Course
     university: Ministerio de la Ciudad de Buenos Aires
     time: May 2021 - November 2021
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Escuela  (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
@@ -92,7 +78,7 @@ experiences:
         - Entity Framework
 
   - role: Start Program 
-    time: 2014 - 2015
+    time: January 2020 - March 2020
     company: Alliance Accenture, Fundación Forge y Mindhub
     details: |
       Training in soft skills and Front-End development
@@ -109,23 +95,38 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
-      level: 60%
-
-    - name: Caffe
+    - name: HTML
       level: 80%
 
-    - name: Matlab
-      level: 100%
+    - name: CSS
+      level: 80%
 
-    - name: C/C++
+    - name: Sass
+      level: 60%
+
+    - name: JavaScript
+      level: 60%
+
+    - name: React
+      level: 20%
+
+    - name: Angular
+      level: 20%
+
+    - name: C#
+      level: 60%
+
+    - name: .NET
+      level: 60%
+
+    - name: Sql Server
       level: 40%
+
+    - name: FireBase
+      level: 20%
+
+    - name: Git
+      level: 60%
 
 # NO MODIFICAR
 footer: >
